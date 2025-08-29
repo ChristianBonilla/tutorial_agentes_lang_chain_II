@@ -198,7 +198,7 @@ data/
 *.csv
 *.json
 *.xml
-*.txt
+#*.txt
 *.log
 
 # Archivos temporales
