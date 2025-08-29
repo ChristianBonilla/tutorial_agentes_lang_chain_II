@@ -180,14 +180,14 @@ env_example.txt
 .env.production
 
 # Archivos de configuración con API keys
-config.py
+#config.py
 secrets.py
 api_keys.py
 credentials.py
 
 # Archivos de configuración de Pinecone
-pinecone_config.py
-pinecone_credentials.py
+#pinecone_config.py
+#pinecone_credentials.py
 
 # ============================================================================
 # DATOS Y ARCHIVOS TEMPORALES
